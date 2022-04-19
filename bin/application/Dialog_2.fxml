@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<fx:root type="AnchorPane" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutX="-103.0" layoutY="-101.0" prefHeight="187.0" prefWidth="295.0">
+         <children>
+            <DatePicker fx:id="datePicker" layoutX="108.0" layoutY="135.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</fx:root>
